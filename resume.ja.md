@@ -11,11 +11,15 @@
 ## 職務経歴
 
 **フリーランス**（2014/04 - 現在）
+ * Ruby on Railsを使用したサービス開発が主な業務
+  * クラウドサービスのリソースを監視・決済代行するサイトの開発
+  * ストレスチェックをするサイトの開発
 
 **株式会社クラウドソース**（2012/10 - 2014/03）
  * 役職: エンジニア
 
 **フリーランス**（2011/04 - 2012/09）
+ * Ruby on Railsを使用したサービス開発が主な業務
 
 **株式会社エス・エフ・アイ**（2007/04- 2011/04）
  * 役職: システムエンジニア
@@ -27,15 +31,26 @@
 
 ## スキル
 
+**メイン**
+ * Ruby
+ * JavaScript
+ * Ruby on Rails
+ * Ubuntu
+ * Heroku
+ * Vagrant
+ * Git
+ * Bash
+ * Vim
+
 **業務**
- * Ruby, JavaScript, C#, Java
- * Ruby on Rails, .NET Framework
+ * C#, Java
+ * .NET Framework
  * PostgreSQL, MySQL, Oracle, SQL Server, MongoDB
- * OS X, Ubuntu, CentOS, Windows
+ * OS X, Windows
  * AWS, Heroku
- * Vagrant, Ansible, Chef
+ * Ansible, Chef
  * Visual Studio, Eclipse
- * Bash, Vim, tmux, Git
+ * Mercurial, Subversion, Visual SourceSafe
 
 **業務外**
  * Go, Python
