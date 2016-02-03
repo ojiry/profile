@@ -4,8 +4,8 @@
 
 * 氏名: 吉岡　良治（よしおか　りょうじ）
 * 性別: 男
-* 生年月日: 1986年10月11日
-* github: https://github.com/ryog
+* 生年月日: 1986年10月11日（29歳）
+* github: https://github.com/ojiry
 * twitter: [@ojiry](https://twitter.com/ojiry)
 
 ## 職務経歴
