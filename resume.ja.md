@@ -12,6 +12,7 @@
 
 * 日商簿記3級(2007/07)
 * 色彩検定3級(2015/08)
+* Ruby Association Certified Ruby Programmer Silver version 2.1(2016/02)
 
 ## 学歴
 
