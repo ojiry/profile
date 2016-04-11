@@ -14,6 +14,7 @@
 * 色彩検定3級(2015/08)
 * Ruby Association Certified Ruby Programmer Silver version 2.1(2016/02)
 * Ruby Association Certified Ruby Programmer Gold version 2.1(2016/03)
+* Rails 4 Certified Programmer Silver(2016/04)
 
 ## 学歴
 
