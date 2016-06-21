@@ -7,6 +7,8 @@
 
 ## Business Card
 
+### Usage
+
 ```shell
-$ curl -Ls profile.ojiry.com | sh
+$ curl -Ls profile.ojiry.com | cat
 ```
