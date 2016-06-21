@@ -1,0 +1,9 @@
+# /bin/sh
+
+cat << EOS
+name:     Ryoji Yoshioka
+position: web engineer
+url:      https://rynotes.com
+email:    yoshioka.ryoji@gmail.com
+editor:   neovim
+EOS
