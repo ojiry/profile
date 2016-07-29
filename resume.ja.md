@@ -17,6 +17,7 @@
 * Rails 4 Certified Programmer Silver(2016/04)
 * ITパスポート試験(2016/04)
 * LPI Level1 Exam 101(2016/06)
+* LPI Level1 Exam 102(2016/07)
 
 ## 学歴
 
