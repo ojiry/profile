@@ -10,12 +10,12 @@
 
 ## 資格
 
-* 日商簿記3級(2007/07)
-* 色彩検定3級(2015/08)
+* 日商簿記3級(2007/06)
+* 色彩検定3級(2015/07)
 * Ruby Association Certified Ruby Programmer Silver version 2.1(2016/02)
 * Ruby Association Certified Ruby Programmer Gold version 2.1(2016/03)
 * Rails 4 Certified Programmer Silver(2016/04)
-* ITパスポート試験(2016/04)
+* ITパスポート試験(2016/05)
 * LPI Level1 Exam 101(2016/06)
 * LPI Level1 Exam 102(2016/07)
 
