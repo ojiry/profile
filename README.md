@@ -10,5 +10,5 @@
 ### Usage
 
 ```shell
-$ curl -Ls card.ojiry.com | cat
+$ curl -Ls card.ojiry.com
 ```
